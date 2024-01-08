@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 34514f1b4cfd55841a6609ced87a4381
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dojjmanpref: {instanceID: 0}
+  - container: {instanceID: 0}
+  - se_tiroo: {instanceID: 0}
+  - soraat: {instanceID: 0}
+  - godrat_list: {instanceID: 0}
+  - shahab: {fileID: 5089000356072864365, guid: 96f59c7f9539e2e43a0c4442a8e4d16a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
